@@ -12,6 +12,7 @@ Explorer🚀<br><br>🎓 College student on a relentless journey through the eve
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaggz1&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=gaggz1&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
