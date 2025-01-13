@@ -18,3 +18,6 @@ Explorer🚀<br><br>🎓 College student on a relentless journey through the eve
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GAGGZ1&label=Profile%20views&color=0e75b6&style=flat" alt="GAGGZ1" /> </p>
+<br/>
