@@ -1,5 +1,20 @@
-# 💫 About Me:
-Explorer🚀<br><br>🎓 College student on a relentless journey through the ever-evolving world of technology. <br>🌐 A firm believer that self-discipline is the key to unlocking one's full potential. <br>💪 Passionate about coding, software development, and staying at the forefront of tech innovation.<br> 🚀 Balancing the art of learning and creating in the digital age.<br><br>Join me on this exciting quest! 🌟 <br><br>#TechPassion #SelfDisciplineMatters #ContinuousLearning
+# 💫 About Me
+
+🎓 I'm a **final-year Computer Science student** on a relentless journey through the ever-evolving world of technology.
+
+💻 I specialize in **Data Structures & Algorithms using Java** and have built several **full-stack applications using the MERN stack** (MongoDB, Express.js, React.js, Node.js).
+
+🐍 I also enjoy backend development using **Python and Flask**, creating RESTful APIs and integrating databases.
+
+🤖 Currently exploring the exciting world of **Artificial Intelligence, Machine Learning, and Deep Learning**, with the goal of building smart, real-world solutions.
+
+🌐 I firmly believe that **self-discipline is the key to unlocking one’s full potential**.
+
+🚀 Passionate about coding, problem-solving, and staying at the forefront of tech innovation — always learning, always building.
+
+
+#️⃣ #TechPassion #SelfDisciplineMatters #ContinuousLearning #MERN #Java #AIJourney
+
 
 
 ## 🌐 Socials:
